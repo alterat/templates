@@ -7,6 +7,8 @@ They can serve as a starting point in order to avoid the fear of a blank page.
 
 - `html-js`: a simple HTML page with an empty JavaScript script attached. 
 - `canvas-html-js`: an HTML page with a canvas ready for drawing images. 
+- `nikola-post`: an empty post in RST for a Nikola blog.
+- `flask-api-post-method`: the skeleton for an API in Flask accepting a POST request from Python.
 
 ## License
 
